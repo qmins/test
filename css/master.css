@@ -1,0 +1,36 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: "Helvetica Neue", Helvetica, Arial;
+	color: #4b4b4b;
+	font-weight: normal;
+	font-size: 1em;
+	background-color: #ffffff;
+}
+
+h1 {
+	font-weight: normal;
+	padding: 8% 5% 0% 5%;
+	width: 100%;
+	
+}
+
+table {
+	margin: 2% 5% 0% 5%;
+	width: 100%;
+}
+
+a {
+	color: #4b4b4b;
+	text-decoration: none;
+}
+
+a:hover {
+	
+	color: #0099cc;
+	-webkit-transition: color .25s linear;
+	transition: color .25s linear;
+}
